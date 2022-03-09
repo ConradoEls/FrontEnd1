@@ -56,18 +56,26 @@ h2 {
 }
 .content {
     background-color: deeppink;
-    margin: 300px 60px;
+    margin: 150px 60px;
+    position: relative;
 }
 
 .batman1 {
     background-color: #E5E5E5;
     width: 300px;
+
 }
 .harley {
     background-color: #E5E5E5;
     width: 300px;
+    position: absolute;
+    top: 0px;
+    left: 500px;
 }
 .batman2 {
     background-color: #E5E5E5;
     width: 300px;
+    position: absolute;
+    top: 0px;
+    right: 0px;
 }
