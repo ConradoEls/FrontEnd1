@@ -37,10 +37,13 @@ button {
     height: 48px;
     padding: 15px;
     border: none;
+    margin-left: 30%;
+    margin-right: 30%;
 }
 h2 {
     text-transform: uppercase;
     font-weight: normal;
+    text-align: center;
 }
 .perfilbat2 {
     border-radius: 50%;
@@ -55,7 +58,7 @@ h2 {
     box-shadow: 0px 4px 5px gray;
 }
 .content {
-    background-color: deeppink;
+    
     margin: 150px 60px;
     position: relative;
 }
@@ -63,7 +66,7 @@ h2 {
 .batman1 {
     background-color: #E5E5E5;
     width: 300px;
-
+    
 }
 .harley {
     background-color: #E5E5E5;
@@ -78,4 +81,20 @@ h2 {
     position: absolute;
     top: 0px;
     right: 0px;
+}
+
+.corbat1 {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+.corhar {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+}
+.corbat2 {
+    position: absolute;
+    top: 15px;
+    left: 20px;
 }
