@@ -1,0 +1,38 @@
+body header {
+    background-color: #E6E6E6;
+}
+body header section img {
+    width: 147px;
+    height: 156px;
+}
+body header section {
+    text-align: center;
+}
+body header h1 {text-align: center;
+background-color: #C4C4C4;
+color: 
+#005677;
+}
+.formAca h2 {
+background-color:  #C4C4C4;
+color: 
+#005677;
+}
+.datosPer h2 {
+    background-color:  #C4C4C4;
+    color: 
+    #005677;
+    }
+.expeLab h2 {
+        background-color:  #C4C4C4;
+        color: 
+        #005677;
+        }
+span {
+    font-weight: bold;
+}
+footer h2 {text-align: center;
+    background: #005677;
+    color: white;
+    font-weight: normal;
+}
